@@ -18,7 +18,7 @@ CSVDER is a powerful, beautiful command line utility designed for beautiful and 
 ### Direct Download Method
 
 ```bash
-wget https://raw.githubusercontent.com/beautifulsh2/csvder/refs/heads/main/src/csvder.py
+wget https://raw.githubusercontent.com/beautifulsh2/csvder.sh/refs/heads/main/src/csvder.py
 chmod +x csvder.py
 sudo mv csvder.py /usr/local/bin/csvder
 ```
